@@ -10,7 +10,7 @@ h1 {text-align: center; font-family: sans-serif}
 </head>
 <body>
 
-<h1>Innese I. Gonzalez</h1>
+<h1 align = "center">Innese I. Gonzalez</h1>
 <p>My first paragraph.</p>
 
 </body>
