@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-
-h1 {text-align: center; font-family: sans-serif}
-
-</style>
 <title>Portfolio Homepage</title>
 </head>
 <body>
